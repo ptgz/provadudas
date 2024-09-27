@@ -1,0 +1,5 @@
+[
+    {"id": 1, "url": "https://www.exemplo.com/artigo/como-usar-python-para-web"},
+    {"id": 2, "url": "https://www.outroexemplo.com/blog/dicas-programacao-em-python"},
+    {"id": 3, "url": "https://www.meusite.com/tutorials/python/arquivos-e-json"}
+]
